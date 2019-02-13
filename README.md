@@ -4,11 +4,11 @@
 
 ## Installation
 
-### Web
-> open the terminal in the web folder and enter `npm i` it will install the packages first
+### Client
+> open the terminal in the client folder and enter `npm i` it will install the packages first
 > then `npm start` to run the client, default on localhost 3000
 ```shell
-// inside web folder
+// inside client folder
 $ npm i
 $ npm start
 ```
